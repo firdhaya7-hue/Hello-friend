@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Apple blue and cherries</title>
+<style> body { background-color: powderblue;
+color: gold;
+              display: flex;
+              flex-direction: column;
+              align-items: center;
+              justify-content:center;
+              height: 99vh;
+              margin: 0;
+             }
+.main-logo {
+  max-width:280px;
+}
+</style>
+</head>
+<body>
+
+    <h1>Apples blue and cherries</h1>
+    <p>Biographies and artwork are cooking...</p>
+
+</body>
+</html>
